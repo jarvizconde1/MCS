@@ -7,6 +7,7 @@
 
 import UIKit
 
+
 class CarCollection: UICollectionViewCell {
     
     static let identifier = "carsCell"
@@ -99,9 +100,11 @@ class CarCollection: UICollectionViewCell {
         if codingDayz == weekdate {
             status.text = "Coding Today"
             status.textColor = UIColor.red
+          
         }else {
-            status.text = "Not Coding"
+            status.text = "Available"
             status.textColor = UIColor.green
+            
             
         }
         

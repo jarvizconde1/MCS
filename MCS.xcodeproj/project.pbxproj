@@ -24,6 +24,7 @@
 		637B80092A20B395001DEC39 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B80082A20B395001DEC39 /* DetailsViewController.swift */; };
 		637B800B2A20F7A8001DEC39 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B800A2A20F7A8001DEC39 /* AboutViewController.swift */; };
 		637B800D2A2107F5001DEC39 /* InitialPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637B800C2A2107F5001DEC39 /* InitialPageViewController.swift */; };
+		639A9A7D2A21AE6C008D738A /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639A9A7C2A21AE6C008D738A /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		637B80082A20B395001DEC39 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		637B800A2A20F7A8001DEC39 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		637B800C2A2107F5001DEC39 /* InitialPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialPageViewController.swift; sourceTree = "<group>"; };
+		639A9A7C2A21AE6C008D738A /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "\U0010Extension.swift"; sourceTree = "<group>"; };
 		748C424A94C69DD6FB37B216 /* Pods-MCS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MCS.release.xcconfig"; path = "Target Support Files/Pods-MCS/Pods-MCS.release.xcconfig"; sourceTree = "<group>"; };
 		8ABD19CDEF34F48507AFBE6B /* Pods_MCS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MCS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -157,8 +159,17 @@
 				635FAFCD2A17660E00A11298 /* LaunchScreen.storyboard */,
 				63242B182A1F751A00DDE30B /* GoogleService-Info.plist */,
 				635FAFD02A17660E00A11298 /* Info.plist */,
+				639A9A7E2A21B025008D738A /* Extension */,
 			);
 			path = MCS;
+			sourceTree = "<group>";
+		};
+		639A9A7E2A21B025008D738A /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				639A9A7C2A21AE6C008D738A /* Extension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,6 +289,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				639A9A7D2A21AE6C008D738A /* Extension.swift in Sources */,
 				63242B282A1FA09000DDE30B /* CarCollection.swift in Sources */,
 				63591CEA2A1F6FB3009723C4 /* LoginViewController.swift in Sources */,
 				637B80092A20B395001DEC39 /* DetailsViewController.swift in Sources */,

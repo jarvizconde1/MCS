@@ -26,9 +26,9 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        self.hideKeyboardOnTap(#selector(self.dismissKeyboard))
         enter.text = "Enter Login Details"
-        // Do any additional setup after loading the view.
+        
     }
     
     
@@ -65,5 +65,12 @@ class LoginViewController: UIViewController {
         
     }
     
+    
+    //MARK: - HIDE KEYBOARD
+    //extension hide keyboard
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+        // do aditional stuff
+    }
 }
 

@@ -35,9 +35,7 @@ class HomeViewController: UIViewController    {
         
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        loadCars()
-    }
+   
    
     
     //MARK: - load cars from user
@@ -67,7 +65,7 @@ class HomeViewController: UIViewController    {
 
                         self.carArray.append(newCar)
                         
-                        print(newCar)
+                        //print(newCar)
                        
                     }
                    
@@ -89,6 +87,21 @@ class HomeViewController: UIViewController    {
     }
     
     
+    @IBAction func logoutButton(_ sender: Any) {
+        
+        let firebaseAuth = Auth.auth()
+        do {
+          try firebaseAuth.signOut()
+            
+            
+            view.window!.rootViewController?.dismiss(animated: true, completion: nil)
+           
+            
+        } catch let signOutError as NSError {
+          print("Error signing out: %@", signOutError)
+        }
+        
+    }
 }
 
 extension HomeViewController : UICollectionViewDelegate , UICollectionViewDataSource {

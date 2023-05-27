@@ -27,11 +27,14 @@ class RegisterViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.hideKeyboardOnTap(#selector(self.dismissKeyboard))
+        
         enter.text = "Enter Your Details Below"
         
         // Do any additional setup after loading the view.
     }
     
+   
     
     @IBAction func registerButton(_ sender: Any) {
         if let email = emailText.text , let password = PasswordText.text , let name = nameText.text {
@@ -91,6 +94,10 @@ class RegisterViewController: UIViewController {
         
     }
     
-    
-    
+    //MARK: - HIDE KEYBOARD
+    //extension hide keyboard
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+        // do aditional stuff
+    }
 }
