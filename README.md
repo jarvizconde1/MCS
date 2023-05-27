@@ -42,10 +42,10 @@ This app lets you save your car plate and details so you will have a list of you
 
 ## CocoaPods Used
 * [GooglePlaces][1]
-* [GooglePlaces][2]
+* [CLTypingLabel][2]
 
 [1]: https://firebase.google.com/
-[1]: https://github.com/cl7/CLTypingLabel
+[2]: https://github.com/cl7/CLTypingLabel
 
 
 
