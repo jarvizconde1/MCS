@@ -34,6 +34,7 @@ This app lets you save your car plate and details so you will have a list of you
 ## Built With
 * UIkit
 * Google Firebase
+* Google Firebase Authentication
 * Storyboards
 * MVC
 * UInib
@@ -41,7 +42,7 @@ This app lets you save your car plate and details so you will have a list of you
 
 
 ## CocoaPods Used
-* [GooglePlaces][1]
+* [Google Firebase][1]
 * [CLTypingLabel][2]
 
 [1]: https://firebase.google.com/
