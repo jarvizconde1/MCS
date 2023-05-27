@@ -42,7 +42,7 @@ This app lets you save your car plate and details so you will have a list of you
 
 ## CocoaPods Used
 * [GooglePlaces][1]
-** [GooglePlaces][2]
+* [GooglePlaces][2]
 
 [1]: https://firebase.google.com/
 [1]: https://github.com/cl7/CLTypingLabel
@@ -54,13 +54,12 @@ This app lets you save your car plate and details so you will have a list of you
 
 
 <img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/7816f337-3c01-463c-921e-574ab2337976" width="250" >
-<img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/dd308a71-fcc3-4e03-bd4b-7324cf9eacb5" width="250" >
-<img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/98997222-5751-4f32-bf39-00b31c2c2a22" width="250" >
 
-## Demo!
+
+## Demo
 
 
 
 <img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/40a6e760-f7d3-4886-96dd-dd7b821455b8" width="250"/>
-<img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/ba6d09f3-d8a3-4992-90e4-6a8a4dc98c32" width="250"/>
+
 
