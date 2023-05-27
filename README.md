@@ -56,16 +56,11 @@ This app lets you save your car plate and details so you will have a list of you
 
 <img src="https://github.com/jarvizconde1/MCS/assets/102355807/c7133a90-6484-4f7f-a80f-7d1337262f01" width="250" >
 <img src="https://github.com/jarvizconde1/MCS/assets/102355807/35f01809-80a3-4d2f-b3b0-e67c3ebc7cb9" width="250" >
-<img src="https://github.com/jarvizconde![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 07 39" width="250" >
 <img src="https://github.com/jarvizconde1/MCS/assets/102355807/49f7943c-2e0d-47b9-8402-b9b56ac12927" width="250" >
+<img src="https://github.com/jarvizconde1/MCS/assets/102355807/a0261dc4-40e3-4e7c-9470-4f16427c2ccc" width="250" >
 <img src="https://github.com/jarvizconde1/MCS/assets/102355807/e0553ef7-f412-480c-bb44-d53fdeed5378" width="250" >
 
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 08 23](https://github.com/jarvizconde1/MCS/assets/102355807/c7133a90-6484-4f7f-a80f-7d1337262f01)
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 07 34](https://github.com/jarvizconde1/MCS/assets/102355807/35f01809-80a3-4d2f-b3b0-e67c3ebc7cb9)
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 07 44](https://github.com/jarvizconde![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 07 39](https://github.com/jarvizconde1/MCS/assets/102355807/49f7943c-2e0d-47b9-8402-b9b56ac12927)
-1/MCS/assets/102355807/1106c74b-8fbe-4db8-a8b0-0d9e3f040546)![Simulator Screenshot - iPhone 14 Pro - 2023-05-29 at 15 07 50](https://github.com/jarvizconde1/MCS/assets/102355807/e0553ef7-f412-480c-bb44-d53fdeed5378)
 
 
 
@@ -74,6 +69,13 @@ This app lets you save your car plate and details so you will have a list of you
 
 
 
-<img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/40a6e760-f7d3-4886-96dd-dd7b821455b8" width="250"/>
+
+<img src="https://github.com/jarvizconde1/MCS/assets/102355807/ca5d0dd3-5916-4dc6-babc-5aaac66fc19c" width="250"/>
+
+
+<img src="https://github.com/jarvizconde1/MCS/assets/102355807/288ebcc1-ea03-4277-8c14-e89f04727c24" width="250"/>
+
+
+<img src="https://github.com/jarvizconde1/MCS/assets/102355807/f47209cc-0d2e-48d0-a30c-104f63f7d1f3" width="250"/>
 
 
