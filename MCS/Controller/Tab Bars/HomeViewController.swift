@@ -24,7 +24,7 @@ class HomeViewController: UIViewController    {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-      loadCars()
+     
         
         
         //register a custom cell
@@ -33,6 +33,10 @@ class HomeViewController: UIViewController    {
         
         
         
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        loadCars()
     }
     
    

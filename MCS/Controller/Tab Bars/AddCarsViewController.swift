@@ -31,7 +31,7 @@ class AddCarsViewController: UIViewController  {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        self.hideKeyboardOnTap(#selector(self.dismissKeyboard))
        getName()
     }
     
@@ -107,7 +107,12 @@ class AddCarsViewController: UIViewController  {
             
             
         }
-        
+    //MARK: - HIDE KEYBOARD
+    //extension hide keyboard
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+        // do aditional stuff
+    }
         
         
     }
